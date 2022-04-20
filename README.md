@@ -1,4 +1,4 @@
-# Yandex-Practicum-projects
+# Yandex_Practicum_projects
 These projects were completed for Practicum's Data Scientist professional training programs.
 | Project name | Description | Libraries used | 
 | :---------------------- | :---------------------- | :---------------------- |
