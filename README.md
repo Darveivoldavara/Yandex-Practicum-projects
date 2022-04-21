@@ -1,5 +1,5 @@
 # Yandex Practicum projects
-These projects were completed for Practicum's Data Scientist professional training programs.
-| Project name | Description | Libraries used | 
+Данные проекты были выполнены в ходе обучения в Яндекс.Практикуме по профессии "Специалист по Data Science".
+| Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Real Estate Analysis](real_estate) | Determining the market value of real estate in Saint Petersburg, Russia, and defining parameters that make it possible to create an automated system capable of detecting anomalies and fraud. | *pandas*, *matplotlib.pyplot* |
+| [Real Estate Analysis](real_estate) | Выяснение влияния различных характеристик клиентов банка на своевременное погашение ими кредита. | *pandas* |
