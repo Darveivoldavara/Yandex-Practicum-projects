@@ -32,5 +32,7 @@
 
 ## Используемые библиотеки
 *pandas*
+
 *numpy*
+
 *matplotlib.pyplot*
