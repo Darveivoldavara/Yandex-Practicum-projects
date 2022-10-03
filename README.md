@@ -10,3 +10,4 @@
 | [Определение наиболее доходного телеком-тарифа](the_most_profitable_tariff) | Анализ тарифов оператора сотовой связи, определение наиболее прибыльного из них | *numpy, pandas, math, scipy.stats, plotly.express* |
 | [Рекомендация тарифов](tariff_recommendation) | Создание модели, рекомендующей один из тарифов сотовой связи | *numpy, pandas, plotly.express, sklearn* |
 | [Прогнозирование оттока клиентов](customer_churn) | Построение модели, прогнозирующей, уйдёт ли клиент из банка в ближайшее время | *numpy, pandas, pandas_profiling, plotly.express, sklearn, catboost* |
+| [Выбор локации для скважин](well_location_selection) | Выбор региона для разработки новых нефтяных скважин | *numpy, pandas, pandas_profiling, plotly.express, sklearn* |
