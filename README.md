@@ -6,8 +6,8 @@
 | :---------------------- | :---------------------- | :---------------------- |
 | [Исследование надёжности заёмщиков](reliability_of_borrowers) | Выяснение влияния различных характеристик клиентов банка на своевременное погашение ими кредита | *pandas* |
 | [Исследование объявлений о продаже квартир](the_cost_of_apartments) | Установление параметров для определения рыночной стоимости объектов недвижимости | *pandas, numpy, matplotlib.pyplot* |
-| [Исследование российского кинопроката](russian_film_distribution) | Изучение особенностей рынка российского кинопроката | *pandas, plotly.express, warnings* |
-| [Определение наиболее доходного телеком-тарифа](the_most_profitable_tariff) | Анализ тарифов оператора сотовой связи, определение наиболее прибыльного из них | *numpy, pandas, math, scipy.stats, plotly.express* |
+| [Исследование российского кинопроката](russian_film_distribution) | Изучение особенностей рынка российского кинопроката | *pandas, plotly.express* |
+| [Определение наиболее доходного телеком-тарифа](the_most_profitable_tariff) | Анализ тарифов оператора сотовой связи, определение наиболее прибыльного из них | *numpy, pandas, scipy.stats, plotly.express* |
 | [Рекомендация тарифов](tariff_recommendation) | Создание модели, рекомендующей один из тарифов сотовой связи | *numpy, pandas, plotly.express, sklearn* |
 | [Прогнозирование оттока клиентов](customer_churn) | Построение модели, прогнозирующей, уйдёт ли клиент из банка в ближайшее время | *numpy, pandas, pandas_profiling, plotly.express, sklearn, catboost* |
 | [Выбор локации для скважин](well_location_selection) | Выбор региона для разработки новых нефтяных скважин | *numpy, pandas, pandas_profiling, plotly.express, sklearn* |
