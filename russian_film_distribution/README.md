@@ -29,5 +29,3 @@
 *pandas*
 
 *plotly.express*
-
-*warnings*
