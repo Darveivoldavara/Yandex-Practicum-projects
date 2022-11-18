@@ -12,4 +12,4 @@
 | [Прогнозирование оттока клиентов](customer_churn) | Построение модели, прогнозирующей, уйдёт ли клиент из банка в ближайшее время | *numpy, pandas, pandas_profiling, plotly.express, sklearn, catboost* |
 | [Выбор локации для скважин](well_location_selection) | Выбор региона для разработки новых нефтяных скважин | *numpy, pandas, pandas_profiling, plotly.express, sklearn* |
 | [Модель для сети отелей](hotel_chain_model) | Проектирование модели для предсказания отмены бронирования | *numpy, pandas, pandas_profiling, plotly.express, sklearn, catboost* |
-| [Прогнозирование риска сердечной недостаточности](heart_deseases_prediction) | Создание модели, наилучшим образом предсказывающей вероятности наличия заболевания для соревнования **Kaggle** | *numpy, pandas, pandas_profiling, plotly, sklearn, catboost* |
+| [Прогнозирование риска сердечной недостаточности](heart_diseases_prediction) | Создание модели, наилучшим образом предсказывающей вероятности наличия заболевания для соревнования *Kaggle* | *numpy, pandas, pandas_profiling, plotly, sklearn, catboost* |
