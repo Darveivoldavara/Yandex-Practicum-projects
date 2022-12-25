@@ -13,4 +13,5 @@
 | [Выбор локации для скважин](well_location_selection) | Выбор региона для разработки новых нефтяных скважин | *numpy, pandas, pandas_profiling, plotly.express, sklearn* |
 | [Модель для сети отелей](hotel_chain_model) | Проектирование модели для предсказания отмены бронирования | *numpy, pandas, pandas_profiling, plotly.express, sklearn, catboost* |
 | [Прогнозирование риска сердечной недостаточности](heart_diseases_prediction) | Создание модели, наилучшим образом предсказывающей вероятности наличия заболевания для соревнования *Kaggle* | *numpy, pandas, pandas_profiling, plotly, sklearn, catboost* |
-| [Предсказание стоимости жилья](home_value_prediction) | Формирование предсказаний стоимости домов с помощью MLlib | *itertools, pandas, pyspark* |
+| [Предсказание стоимости жилья](home_value_prediction) | Формирование предсказаний стоимости домов с помощью MLlib | *pandas, pyspark* |
+| [Защита персональных данных](protection_of_clients_personal_data) | Разработка метода шифрования персональных данных, не влияющего на качество предсказаний модели | *numpy, pandas, pandas_profiling, sklearn* |
