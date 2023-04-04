@@ -17,3 +17,4 @@
 | [Защита персональных данных](protection_of_clients_personal_data) | Разработка метода шифрования персональных данных, не влияющего на качество предсказаний модели | *numpy, pandas, pandas_profiling, sklearn* |
 | [Определение стоимости автомобилей](cars_value_determination) | Построение модели, оперативно предсказывающей рыночную стоимость автомобиля  | *numpy, pandas, pandas_profiling, plotly.express, sklearn, lightgbm, optuna* |
 | [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейростеи, определяющей температуру на поверхности звёзды  | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
+| [Прогнозирование температуры звезды](star_temperature_prediction) | Создание модели, предсказывающей количество заказов такси на следующий час  | *numpy, pandas, plotly, statsmodels, optuna, sklearn, lightgbm* |
