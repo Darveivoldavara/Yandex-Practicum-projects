@@ -16,5 +16,5 @@
 | [Предсказание стоимости жилья](home_value_prediction) | Формирование предсказаний стоимости домов с помощью MLlib | *pandas, pyspark* |
 | [Защита персональных данных](protection_of_clients_personal_data) | Разработка метода шифрования персональных данных, не влияющего на качество предсказаний модели | *numpy, pandas, pandas_profiling, sklearn* |
 | [Определение стоимости автомобилей](cars_value_determination) | Построение модели, оперативно предсказывающей рыночную стоимость автомобиля  | *numpy, pandas, pandas_profiling, plotly.express, sklearn, lightgbm, optuna* |
-| [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейростеи, определяющей температуру на поверхности звёзды  | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
+| [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейросети, определяющей температуру на поверхности звёзды  | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
 | [Прогнозирование заказов такси](taxi_order_forecasting) | Создание модели, предсказывающей количество заказов такси на следующий час  | *numpy, pandas, plotly, statsmodels, optuna, sklearn, lightgbm* |
