@@ -13,6 +13,7 @@
 | [Прогнозирование риска сердечной недостаточности](heart_diseases_prediction) | Создание модели, наилучшим образом предсказывающей вероятности наличия заболевания для соревнования *Kaggle* | *numpy, pandas, pandas_profiling, plotly, sklearn, catboost* |
 | [Предсказание стоимости жилья](home_value_prediction) | Формирование предсказаний стоимости домов с помощью MLlib | *pandas, pyspark* |
 | [Защита персональных данных](protection_of_clients_personal_data) | Разработка метода шифрования персональных данных, не влияющего на качество предсказаний модели | *numpy, pandas, pandas_profiling, sklearn* |
-| [Определение стоимости автомобилей](cars_value_determination) | Построение модели, оперативно предсказывающей рыночную стоимость автомобиля  | *numpy, pandas, pandas_profiling, plotly, sklearn, lightgbm, optuna* |
-| [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейросети, определяющей температуру на поверхности звёзды  | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
-| [Прогнозирование заказов такси](taxi_order_forecasting) | Создание модели, предсказывающей количество заказов такси на следующий час  | *numpy, pandas, plotly, statsmodels, optuna, sklearn, lightgbm* |
+| [Определение стоимости автомобилей](cars_value_determination) | Построение модели, оперативно предсказывающей рыночную стоимость автомобиля | *numpy, pandas, pandas_profiling, plotly, sklearn, lightgbm, optuna* |
+| [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейросети, определяющей температуру на поверхности звёзды | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
+| [Прогнозирование заказов такси](taxi_order_forecasting) | Создание модели, предсказывающей количество заказов такси на следующий час | *numpy, pandas, plotly, statsmodels, optuna, sklearn, lightgbm* |
+| [Классификация комментариев](taxi_order_forecasting) | Подготовка модели, классифицирующей комментарии на нейтральные и токсичные для последующей отправки последних на модерацию | *numpy, pandas, tqdm, plotly, sklearn, tune_sklearn, lightgbm, torch, skorch, transformers* |
