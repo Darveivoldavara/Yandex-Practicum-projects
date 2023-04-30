@@ -34,7 +34,7 @@
 
 *pandas_profiling*
 
-*plotly.express*
+*plotly*
 
 *sklearn*
 
