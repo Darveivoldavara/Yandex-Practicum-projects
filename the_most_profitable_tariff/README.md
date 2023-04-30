@@ -51,6 +51,6 @@
 
 *pandas*
 
-*scipy.stats*
+*scipy*
 
-*plotly.express*
+*plotly*
