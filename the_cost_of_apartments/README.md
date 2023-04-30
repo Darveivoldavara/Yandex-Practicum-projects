@@ -35,4 +35,4 @@
 
 *numpy*
 
-*matplotlib.pyplot*
+*matplotlib*
