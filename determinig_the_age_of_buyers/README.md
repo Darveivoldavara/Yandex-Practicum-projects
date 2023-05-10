@@ -2,7 +2,7 @@
 
 ## Данные
 
-Фото лиц людей и разметка их возраста с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/26/description/)
+Фото лиц людей и разметка их возраста с сайта [ChaLearn Looking at People](https://chalearnlap.cvc.uab.cat/dataset/26/description/).
 
 ## Задача
 
