@@ -20,6 +20,6 @@
 
 *pandas*
 
-*plotly.express*
+*plotly*
 
 *sklearn*

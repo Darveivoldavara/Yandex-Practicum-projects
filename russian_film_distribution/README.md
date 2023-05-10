@@ -28,4 +28,4 @@
 ## Используемые библиотеки
 *pandas*
 
-*plotly.express*
+*plotly*
