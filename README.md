@@ -17,3 +17,4 @@
 | [Прогнозирование температуры звезды](star_temperature_prediction) | Построение нейросети, определяющей температуру на поверхности звёзды | *numpy, pandas, pandas_profiling, plotly, torch, sklearn* |
 | [Прогнозирование заказов такси](taxi_order_forecasting) | Создание модели, предсказывающей количество заказов такси на следующий час | *numpy, pandas, plotly, statsmodels, optuna, sklearn, lightgbm* |
 | [Классификация комментариев](taxi_order_forecasting) | Подготовка модели, классифицирующей комментарии на нейтральные и токсичные для последующей отправки последних на модерацию | *numpy, pandas, tqdm, plotly, sklearn, tune_sklearn, lightgbm, torch, skorch, transformers* |
+| [Определение возраста покупателей](determinig_the_age_of_buyers) | Построение модели, визуально определяющей возраст человека в прикассовой зоне супермаркета | *numpy, pandas, plotly, tensorflow* |
