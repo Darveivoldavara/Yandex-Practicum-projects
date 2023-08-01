@@ -23,3 +23,7 @@
 *pandas_profiling*
 
 *sklearn*
+
+## Статус проекта
+
+Завершён
